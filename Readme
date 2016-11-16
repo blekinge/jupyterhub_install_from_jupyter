@@ -1,0 +1,5 @@
+install jupyter by running this command
+
+bash -c $(grep '^ ' quickJupyterSetup.md)
+
+

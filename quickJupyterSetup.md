@@ -50,6 +50,4 @@ Then start jupyter and open the install guide
 
     jupyter notebook --ip=$(hostname) --port=28888
 
-To see what other extensions there are and configure them, go to
-    
-    http://localhost:8888/nbextensions
+To see what other extensions there are and configure them, go to http://localhost:8888/nbextensions
