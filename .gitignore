@@ -1,0 +1,10 @@
+# Created by .ignore support plugin (hsz.mobi)
+### idea template
+#Intellij Ignores
+*.iml
+*.iws
+.idea/
+*.ipr
+
+#Jupyter checkpoints
+.ipynb_checkpoints/
